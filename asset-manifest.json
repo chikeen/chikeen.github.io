@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chikeen/static/css/main.2cce8147.chunk.css",
+    "main.js": "/chikeen/static/js/main.b13dcc91.chunk.js",
+    "main.js.map": "/chikeen/static/js/main.b13dcc91.chunk.js.map",
+    "runtime~main.js": "/chikeen/static/js/runtime~main.3a6640c9.js",
+    "runtime~main.js.map": "/chikeen/static/js/runtime~main.3a6640c9.js.map",
+    "static/js/2.b41502e9.chunk.js": "/chikeen/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/chikeen/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/chikeen/index.html",
+    "precache-manifest.15745ac25aef2aa2ec71dd079c6d865c.js": "/chikeen/precache-manifest.15745ac25aef2aa2ec71dd079c6d865c.js",
+    "service-worker.js": "/chikeen/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/chikeen/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/chikeen/static/media/logo.5d5d9eef.svg"
+  }
+}
